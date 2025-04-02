@@ -13,3 +13,4 @@ Develops neural network architectures (such as conditional VAEs) that learn to g
 
 These methods demonstrate how data-driven algorithms can be applied to real-world scientific problems in cheminformatics and computational chemistry.
 
+Additional documentation is present here: https://data-chemist-handbook.github.io/pages/Molecular_Property_Optimization/
