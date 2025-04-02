@@ -1,6 +1,5 @@
 # Molecular-Property-Optimization-Algorithms
 
-Alex Liu – AI-Driven Molecular Property Optimization
 This repository contains research-driven implementations exploring how artificial intelligence can accelerate molecular discovery and optimization. The work focuses on three core approaches:
 
 1. Genetic Algorithms for Molecular Search
@@ -13,3 +12,4 @@ Applies Gaussian Process Regression (GPR) as a surrogate model to efficiently ex
 Develops neural network architectures (such as conditional VAEs) that learn to generate valid molecules given target property constraints. Models are trained using PyTorch, leveraging datasets like ZINC for supervised learning. Emphasis is placed on learning latent representations that align with desired molecular characteristics.
 
 These methods demonstrate how data-driven algorithms can be applied to real-world scientific problems in cheminformatics and computational chemistry.
+
