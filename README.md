@@ -92,27 +92,6 @@ In cheminformatics and drug discovery, it’s crucial to both predict how molecu
 
 ---
 
-## Contributing
-
-Contributions and suggestions are welcome! If you have new models, property datasets, or optimization ideas, feel free to open a pull request or issue.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-## Acknowledgments
-
-- RDKit for molecular processing
-- ZINC & BBBP datasets
-- PyTorch Geometric and TensorFlow for model implementations
-- Data Chemist Handbook for educational support and hosted documentation
-
----
-
 If this repo helps your research or learning, consider starring it or sharing with others in the community.
 
 ---
