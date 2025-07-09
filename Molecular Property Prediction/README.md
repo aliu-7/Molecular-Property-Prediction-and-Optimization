@@ -1,4 +1,4 @@
-Molecular-Property-Prediction-Algorithms
+# Molecular-Property-Prediction-Algorithms
 
 This repository provides end-to-end implementations of machine learning models used to predict molecular properties directly from chemical structures. The models are evaluated using the BBBP (Blood–Brain Barrier Penetration) dataset, a key benchmark in pharmacokinetic modeling. Each approach is designed to handle a different molecular representation format—ranging from SMILES strings to graph-structured data and hand-crafted descriptors.
 
@@ -39,4 +39,4 @@ All code is runnable in Google Colab and available in the corresponding subfolde
 
 
 Companion Material:
-Extended textbook-style explanations and interactive notebooks are available at: https://data-chemist-handbook.github.io/pages/Molecular_Property_Prediction/
+Extended textbook-style explanations and interactive notebooks are available at: [https://data-chemist-handbook.github.io/pages/Molecular_Property_Prediction/](url)
